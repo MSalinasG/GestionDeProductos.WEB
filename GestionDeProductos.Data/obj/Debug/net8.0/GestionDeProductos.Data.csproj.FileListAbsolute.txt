@@ -1,0 +1,28 @@
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.deps.json
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.runtimeconfig.json
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.dll
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.pdb
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.csproj.AssemblyReference.cache
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.AssemblyInfoInputs.cache
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.AssemblyInfo.cs
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.dll
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\refint\GestionDeProductos.Data.dll
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.pdb
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.genruntimeconfig.cache
+C:\Users\Maicol\source\repos\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\ref\GestionDeProductos.Data.dll
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.deps.json
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.runtimeconfig.json
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.dll
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\bin\Debug\net8.0\GestionDeProductos.Data.pdb
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.csproj.AssemblyReference.cache
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.AssemblyInfoInputs.cache
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.AssemblyInfo.cs
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.csproj.CoreCompileInputs.cache
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.dll
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\refint\GestionDeProductos.Data.dll
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.pdb
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\GestionDeProductos.Data.genruntimeconfig.cache
+C:\Users\Maicol\Desktop\Nueva carpeta (2)\NET CORE DEVELOPER\Practica\GestionDeProductos\GestionDeProductos.Data\obj\Debug\net8.0\ref\GestionDeProductos.Data.dll
